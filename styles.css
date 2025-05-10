@@ -51,7 +51,7 @@ body {
     height: 100px;
     border-radius: 5%;
     margin-bottom: 20px;
-    box-shadow: 0 0 10px rgba(127, 238, 255, 0.4);
+    box-shadow: 0 0 20px rgba(127, 238, 255, 0);
 }
 
 /* Header with gradient effect */
@@ -84,7 +84,7 @@ body {
     text-decoration: none;
     font-size: 1rem;
     color: #fff;
-    background: linear-gradient(180deg, #7FEEFF, #3581B8);
+    background: linear-gradient(180deg, #7FEEFF, #009FFD);
     border-radius: 30px; /* Rounded button for soft feel */
     transition: background 0.5s ease, transform 0.3s, content 0.5s;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
@@ -94,7 +94,7 @@ body {
 
 /* Button hover effect with gradient shift and text change */
     .gradient-button:hover {
-        background: linear-gradient(180deg, #7FEEFF, #3581B8);
+        background: linear-gradient(180deg, #7FEEFF, #009FFD);
         transform: scale(1.05);
         box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
     }
