@@ -83,6 +83,7 @@ body {
     padding: 12px 20px;
     text-decoration: none;
     font-size: 1rem;
+	font-weight: bold
     color: #fff;
     background: linear-gradient(180deg, #7FEEFF, #009FFD);
     border-radius: 30px; /* Rounded button for soft feel */
