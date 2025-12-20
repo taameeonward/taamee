@@ -101,7 +101,7 @@ body {
 
 /* Button hover effect with gradient shift and text change */
     .gradient-button:hover {
-        background: linear-gradient(180deg, #82d9ba, #5FAD56);
+        background: linear-gradient(180deg, #23ecfb, #58b2e8);
         transform: scale(1.05);
         box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
     }
